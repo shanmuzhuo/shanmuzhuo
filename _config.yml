@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "杉木卓"
 description: > # this means to ignore newlines until "email:"
-   只有努力才有未来！
+   努力才有未来！
 
 email: a-mail@mail.mail
 #blog logo
@@ -36,8 +36,8 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://github.com/shanmuzhuo
-    desc: Follow me on twitter
+    url:	http://www.cnblogs.com/muzhuo/
+    desc: 我在博客园
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
