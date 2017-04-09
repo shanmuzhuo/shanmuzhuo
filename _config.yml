@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: a-mail@mail.mail
 #blog logo
-logo: "/assets/images/mylogo.png"
+logo: "/assets/images/mylogo.jpg"
 #float_logo: "/assets/images/author.jpg"
 float_logo: true # true, false (default)
 
