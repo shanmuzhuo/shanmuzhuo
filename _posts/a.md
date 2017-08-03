@@ -1,7 +1,10 @@
 ---
- title: 2017年8月2日22:08:44
- tags: 学习
- notebook: markdown
+layout: post
+title:  "你好 GitHub"
+date:   2017-04-09 14:34:25
+categories: mediator feature
+image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image2: /assets/article_images/2014-11-30-mediator_features/night-track-mobile.JPG
 ---
 
 # 我的markdown学习过程
